@@ -1,0 +1,5 @@
+Pillow==9.4.0
+numpy==1.24.2
+
+# For progress bar (optional)
+tqdm==4.65.0
